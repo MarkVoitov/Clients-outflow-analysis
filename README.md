@@ -1,2 +1,2 @@
-# Clients-outflow-analysis
+# Clients outflow analysis
 Анализ набора данных по оттоку клиентов телеком-оператора с использованием основных методов Pandas
